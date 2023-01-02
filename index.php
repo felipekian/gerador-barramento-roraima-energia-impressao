@@ -19,7 +19,7 @@
   <main style="max-width: 10cm;">
 
     <?php for ($i = 0; $i < 6; $i++) { ?>
-      <div class="p-1 pt-2 m-5 bg-light rounded border row" style="max-height: 4cm;">
+      <div class="p-1 pt-2 mx-5 my-3 bg-light rounded border row" style="max-height: 4cm;">
         <div class="col-5">
           <img src="https://pagamento.roraimaenergia.com.br/images/rr/icons/maskable_icon_x512.png" class="rounded" style="width: 3cm;">
         </div>
